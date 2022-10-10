@@ -1,0 +1,24 @@
+.navbar{
+    background-color: rgb(44, 62, 80) !important;
+}
+
+.navbar-brand, .nav-link{
+    color: white;
+}
+
+.color-aqua{
+    background-color: rgb(26, 188, 156);
+}
+
+.dimensione-barra{
+    width: 60px;
+    height: 3px;
+    background-color: white;
+    border-radius: 30px;
+} 
+
+.btn{
+    color: white;
+    background-color: rgb(26, 188, 156);
+    border: 2px solid rgb(26, 188, 156);
+}
